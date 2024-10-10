@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dsenevirathna&label=Profile%20views&color=0e75b6&style=flat" alt="dsenevirathna" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/devdini-senevirathna-6aa772271](https://www.linkedin.com/in/devdini-senevirathna-6aa772271)
 
