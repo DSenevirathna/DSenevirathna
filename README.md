@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/devdini-senevirathna-6aa772271](https://www.linkedin.com/in/devdini-senevirathna-6aa772271)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/devdini-senevirathna-6aa772271](www.linkedin.com/in/devdini-senevirathna-6aa772271)
 
 - 📫 How to reach me **devdinichaniya2001@gmail.com**
 
