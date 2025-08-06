@@ -49,7 +49,6 @@
 
 - 🟠 **Postman Student Expert**
 - 🟢 **Google UX Design – Foundations Certified**
-- 🎨 Freelancing in **Figma UI Design** & **Web Projects**
 
 ---
 
