@@ -11,7 +11,7 @@
 - 🌱 Learning **Full-Stack Web Development** (React, Next.js, Java, MySQL)  
 - 🎯 Passionate about **user-friendly digital experiences**  
 - 🛠 Love **designing + coding** from scratch  
-- 💌 Reach me: **devdinichaniya2001@gmail.com**
+-  Reach me: **devdinichaniya2001@gmail.com**
 
 ---
 
