@@ -1,17 +1,21 @@
 <h1 align="center">✨ Hey there, I'm Devdini Senevirathna</h1>
-<h3 align="center">🚀 Web Dev in Progress | 🎨 UI/UX Explorer | 📍 Sri Lanka</h3>
+<h3 align="center">💻 Software Engineering | 🚀 Web Development | 🎨 UI/UX Design | ⚙️ DevOps</h3>
+<p align="center">📍 Sri Lanka</p>
+
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&color=00C896&lines=Frontend+%26+Backend+Learner;UI+%2B+UX+Design+Enthusiast;Always+Building%2C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&color=00C896&lines=Frontend+%26+Backend+Learner;UI+%2B+UX+Design+Enthusiast;Exploring+DevOps+%26+Automation;Always+Building%2C+Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌟 About Me
 - 🌱 Learning **Full-Stack Web Development** (React, Next.js, Java, MySQL)  
+- ⚡ Exploring **DevOps practices** (CI/CD, automation, cloud tools)  
 - 🎯 Passionate about **user-friendly digital experiences**  
 - 🛠 Love **designing + coding** from scratch  
--  Reach me: **devdinichaniya2001@gmail.com**
+- 📫 Reach me: **devdinichaniya2001@gmail.com**
 
 ---
 
@@ -26,8 +30,16 @@
 
 ## 💻 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,java,mysql,git,figma,c&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,java,spring,mysql,git,figma,c,docker,jenkins&theme=light" />
 </p>
+
+---
+
+## ⚙️ DevOps Journey
+- 🔧 Learning **CI/CD pipelines** with **Jenkins**  
+- 🐳 Containerization with **Docker**  
+- ☁️ Exploring cloud deployment workflows  
+- 🔄 Interested in **automation & scalability**  
 
 ---
 
@@ -37,7 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsenevirathna&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
-
 ---
 
 ## 🏆 Achievements
@@ -46,11 +57,10 @@
 
 ---
 
-> 💬 *Open to internships, collaborations, and building exciting tech together!*  
+> 💬 *Open to internships, Software Engineering roles, UI/UX projects, DevOps collaborations,  and exciting tech projects!*  
 > ✨ *Let’s connect and create something amazing.*
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=00C896&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Keep+shining+and+coding!+%F0%9F%92%A1" alt="Typing SVG" />
-</p>
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=00C896&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Keep+shining+and+coding!+%F0%9F%92%A1" alt="Typing SVG" /> </p>
