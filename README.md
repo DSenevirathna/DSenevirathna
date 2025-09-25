@@ -11,7 +11,7 @@
 ---
 
 ## 🌟 About Me
-- 🌱 Learning **Full-Stack Web Development** (React, Next.js, Java, MySQL)  
+- 🌱 Learning **Full-Stack Web Development** ( Next.js, Java, Springboot, MySQL)  
 - ⚡ Exploring **DevOps practices** (CI/CD, automation, cloud tools)  
 - 🎯 Passionate about **user-friendly digital experiences**  
 - 🛠 Love **designing + coding** from scratch  
