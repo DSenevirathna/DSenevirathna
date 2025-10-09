@@ -44,10 +44,18 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsenevirathna&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsenevirathna&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <!-- GitHub Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsenevirathna&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
+
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dsenevirathna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsenevirathna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350"/>
 </p>
+
 
 ---
 
