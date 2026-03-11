@@ -72,10 +72,3 @@ Building scalable systems, automating infrastructure, and exploring intelligent 
 
 ---
 
-# 💡 Open to Opportunities
-
-💼 **DevOps Internships**  
-💼 **Cloud Engineering Roles**  
-💼 **AI / MLOps Projects**
-
----
